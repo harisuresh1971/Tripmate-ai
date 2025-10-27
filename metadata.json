@@ -1,0 +1,7 @@
+{
+  "name": "Copy of TripMate AI",
+  "description": "A full-stack smart travel planner with an AI assistant. This application helps users plan detailed trips, manage budgets, and get recommendations, all within an elegant interface.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
